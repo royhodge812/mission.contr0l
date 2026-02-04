@@ -11,8 +11,8 @@ export const Header: React.FC = () => {
           Mission Control AI
         </h1>
       </div>
-      <p className="mt-2 text-md text-gray-400">
-        Your voice shapes your digital presence. Speak your mission. Launch your page.
+      <p className="mt-2 text-md text-gray-400 max-w-2xl mx-auto">
+        Humans handle the nonlinear, creative, and strategic aspects, while machines handle the linear, routinizable, and preparatory work.
       </p>
     </header>
   );
