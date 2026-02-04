@@ -1,0 +1,7 @@
+{
+  "name": "Mission Control AI",
+  "description": "Speak your mission to an AI, which generates a personal webpage for you. The app then provides the HTML for you to update your public GitHub Page, allowing others to see your mission evolve live.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
